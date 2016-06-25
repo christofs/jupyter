@@ -1,6 +1,1 @@
-os
-re
-glob
-numpy
-pandas
 pygal
